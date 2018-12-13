@@ -19,7 +19,7 @@
 
 ### Task 2
 - Create a form with a single input and a submit button
-  - User can only enter a number ( 1,2,3,4,5,6,7,8,9)
+  - User can only enter a number ( 0,1,2,3,4,5,6,7,8,9)
   - User can enter between 0 and 9
   - No alphabets must be allowed to be entered 
 
@@ -45,7 +45,6 @@
 	[ id => 2, name => “B”, age => 7],
 	[ id => 3, name => “C”, age => 7],
 	[ id => 4, name => “D”, age => 8],
-	[ id => 5, name => “E”, age => 6],
 	[ id => 6, name => “F”, age => 6],
 	[ id => 7, name => “G”, age => 6],
 	[ id => 8, name => “H”, age => 2],
