@@ -7,7 +7,7 @@
 | [ Task 2 ](#task-2) | Form and Validation |
 | [ Task 3 ](#task-3) | Request |
 | [ Task 4 ](#task-4) | Arrays |
-| [ Bonus Task ](#bonus-task) | Arrays |
+| [ Bonus Task ](#bonus-task) | Libraries |
 
 ### Task 1
 - Clone this repository into your local server folder
