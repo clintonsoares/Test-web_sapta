@@ -1,0 +1,65 @@
+body{
+	background: grey;
+	height: 100vh;
+	width: 100vw;
+}
+
+.headerContainer{
+	text-align: center;
+	background: yellow;
+	border-bottom: 5px solid blue;
+	padding: 10px;
+	-webkit-animation:colorchange 10s infinite alternate;
+}
+
+@-webkit-keyframes colorchange {
+      0% {
+        
+        color: green;
+      }
+      
+      20% {
+        
+        color: #1abc9c;
+      }
+      
+      40% {
+        
+        color: blue;
+      }
+      
+      60% {
+        
+        color: red;
+      }
+      
+      80% {
+     
+        color: purple;
+      }
+      
+      100% {
+        
+        color: pink;
+      }
+    }
+
+.formContainer{
+	text-align: center;
+	background: orange;
+	border: 5px solid green;
+	margin-top: 2%;
+	padding: 10px;
+}
+
+.hideContainer{
+	visibility: hidden;
+}
+
+#res1{
+  text-align: center;
+  background: white;
+  border: 5px solid green;
+  margin-top: 2%;
+  padding: 10px;
+}
